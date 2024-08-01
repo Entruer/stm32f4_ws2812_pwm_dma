@@ -1,0 +1,8 @@
+# Clion
+.idea
+
+# vscode
+.vscode
+
+# CMake
+cmake-*
